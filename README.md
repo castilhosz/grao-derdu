@@ -6,28 +6,8 @@
 
 <h3 align="center">
     Grão Derdu is a club of members who are passionate about coffee. <br>
-   -- This repository is for study only -- 
+    This repository is for study only
 </h3>
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/castilhosz/grao-derdu?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/castilhosz/grao-derdu">
-
-  <a href="https://www.twitter.com/castilhosz_/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%castilhosz%2Fgrao-derdu">
-  </a>
-  
-  <a href="https://github.com/castilhosz/grao-derdu/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/castilhosz/grao-derdu">
-  </a>
-    
-   <a href="https://github.com/castilhosz/grao-derdu/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/castilhosz/grao-derdu?style=social">
-  </a>
-  
- 
-</p>
 
 <h4 align="center">
 	🚧   Under construction 🚀 🚧
